@@ -1,4 +1,6 @@
-git add .# Sanitix - Smart Hygiene and Sanitation Management System
+# MAJORPRO
+
+## Sanitix - Smart Hygiene and Sanitation Management System
 
 Sanitix is an innovative smart hygiene and sanitation management system designed to improve cleanliness monitoring in public and private spaces. The project focuses on ensuring timely maintenance of sanitation facilities such as restrooms, waste disposal units, and public hygiene areas using modern technology.
 
