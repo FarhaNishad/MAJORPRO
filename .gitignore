@@ -1,0 +1,26 @@
+# Local databases may contain account credentials, report details, and feedback.
+/sanitix.db
+/backend/sanitix.db
+
+# Local environment and credentials.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*service-account*.json
+*service_account*.json
+
+# Python-generated files and environments.
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Frontend dependencies and generated output.
+/frontend/node_modules/
+/frontend/.next/
+/frontend/out/
+/frontend/build/
+/frontend/coverage/
+/frontend/*.tsbuildinfo
